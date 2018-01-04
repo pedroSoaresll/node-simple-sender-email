@@ -1,0 +1,14 @@
+{
+  "name": "googlespeechapinode",
+  "version": "1.0.0",
+  "description": "Comandos de voz com node e google speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Soares",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.4.1"
+  }
+}
